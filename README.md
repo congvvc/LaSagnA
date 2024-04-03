@@ -2,7 +2,7 @@
 # LaSagnA: vLLM-based Segmentation Assistant for Complex Queries
 
 
-<font size=7><div align='center' > <a href=https://arxiv.org/pdf/2308.00692.pdf>**Paper**</a> | <a href="https://huggingface.co/xinlai">**Models**</a></div></font>
+<font size=7><div align='center' > <a href=https://github.com/congvvc/LaSagnA>**Paper**</a> | <a href="https://huggingface.co/weic22/LaSagnA-7B">**Models**</a></div></font>
 
 <!-- <p align="center"> <img src="imgs/teaser.jpg" width="100%"> </p> -->
 

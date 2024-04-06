@@ -160,4 +160,3 @@ If you find this project useful in your research, please consider citing:
 
 ## Acknowledgement
 -  Thanks for great works of [LLaVA](https://github.com/haotian-liu/LLaVA), [SAM](https://github.com/facebookresearch/segment-anything) and [LISA](https://github.com/dvlab-research/LISA). Our code is based on them.
-# LaSagnA

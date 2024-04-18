@@ -1,5 +1,5 @@
 
-# LaSagnA: vLLM-based Segmentation Assistant for Complex Queries
+# LaSagnA: Language-based Segmentation Assistant for Complex Queries
 
 
 <font size=7><div align='center' > <a href=https://arxiv.org/abs/2404.08506>**Paper**</a> | <a href="https://huggingface.co/weic22/LaSagnA-7B">**Models**</a></div></font>

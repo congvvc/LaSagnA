@@ -153,10 +153,10 @@ deepspeed --master_port=24999 test_sem.py \
 If you find this project useful in your research, please consider citing:
 
 ```
-@article{****,
-  title={LaSagnA: vLLM-based Segmentation Assistant for Complex Queries},
-  author={****},
-  journal={arXiv preprint arXiv:****},
+@article{wei2024lasagna,
+  title={LaSagnA: Language-based Segmentation Assistant for Complex Queries},
+  author={Wei, Cong and Tan, Haoxian and Zhong, Yujie and Yang, Yujiu and Ma, Lin},
+  journal={arXiv preprint arXiv:2404.08506},
   year={2024}
 }
 ```
